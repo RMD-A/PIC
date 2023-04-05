@@ -3,7 +3,7 @@
 #### Description:
 so as you know, right now ai(artificial intelligence) is one of the technology trends in the world.
 
-and this is a CNN ai Classifier and the neural network model is vgg11(because that was the only one code.cs50.io supported. the other ones were too heavy) that is pretrained with about 2.1m images in imageNet.
+and this is a CNN ai Classifier and the neural network model is vgg11(because that was the only one github supported. the other ones were too heavy) that is pretrained with about 2.1m images in imageNet.
 
 classifier has a number to label txt because classifier returns numbers and we want words.
 
